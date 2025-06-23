@@ -1,216 +1,213 @@
-
 {
-  "meta": {
-    "title": "About Us - Ashapura Brass Industries",
-    "description": "Learn about our company's journey, infrastructure, and commitment to excellence in brass manufacturing"
-  },
   "hero": {
-    "type": "image",
-    "enabled": true,
-    "title": "About Ashapura Brass Industries",
-    "subtitle": "Excellence in Manufacturing Since 1985",
-    "description": "Discover our journey of innovation, quality, and commitment to delivering superior brass manufacturing solutions.",
-    "backgroundImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2000&q=80",
     "cta": {
-      "primary": "Learn More",
-      "secondary": "Watch Video"
-    }
+      "primary": "Our Capabilities",
+      "secondary": "Contact Us"
+    },
+    "type": "image",
+    "title": "About Sahara Brass",
+    "enabled": true,
+    "subtitle": "Engineering Excellence in Precision Manufacturing Since 2015",
+    "description": "Sahara Brass transforms complex engineering challenges into precision brass solutions. With advanced manufacturing techniques and unwavering commitment to quality, we deliver innovative components that drive industrial performance and reliability.",
+    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
+  },
+  "meta": {
+    "title": "Sahara Brass - Precision Brass Components Manufacturing",
+    "description": "Premier manufacturer of high-quality brass components for automotive, HVAC, and industrial sectors, delivering precision engineering solutions since 2015."
   },
   "sections": {
-    "companyOverview": {
-      "type": "company-overview",
-      "enabled": true,
-      "title": "Leaders in Brass Manufacturing",
-      "subtitle": "Shaping the future of engineering with precision, innovation, and unwavering commitment to quality standards.",
-      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=800&q=80",
-      "items": [
-        {
-          "id": "overview",
-          "content": "Ashapura Brass Industries has been a pioneer in precision brass manufacturing since 1985. We specialize in producing high-quality brass components for automotive, pneumatic, aerospace, and hydraulic applications, serving clients worldwide with exceptional quality and reliability.",
-          "highlights": [
-            "ISO 9001:2015 Quality Management Certification",
-            "Advanced CNC Machining & Automation Technology",
-            "Global Export Network Spanning 50+ Countries",
-            "Dedicated R&D Team for Product Innovation",
-            "24/7 Technical Support & Customer Service",
-            "State-of-the-Art Quality Assurance Laboratory",
-            "Sustainable Manufacturing Practices",
-            "Industry-Leading Delivery Performance"
-          ]
-        }
-      ]
-    },
-    "companyJourney": {
-      "type": "company-journey",
-      "enabled": true,
-      "title": "Our Journey",
-      "subtitle": "Milestones that define our growth and excellence",
-      "items": [
-        {
-          "year": "1985",
-          "title": "Foundation",
-          "description": "Ashapura Brass Industries was founded with a vision to provide high-quality brass components."
-        },
-        {
-          "year": "1995",
-          "title": "Expansion",
-          "description": "Expanded operations with new manufacturing facilities and advanced machinery."
-        },
-        {
-          "year": "2005",
-          "title": "Quality Certification",
-          "description": "Achieved ISO 9001:2000 certification, marking our commitment to quality standards."
-        },
-        {
-          "year": "2015",
-          "title": "Global Reach",
-          "description": "Established international partnerships and expanded to 50+ countries worldwide."
-        },
-        {
-          "year": "2023",
-          "title": "Innovation Hub",
-          "description": "Launched state-of-the-art R&D facility for advanced alloy development."
-        }
-      ]
-    },
-    "infrastructure": {
-      "type": "infrastructure",
-      "enabled": true,
-      "title": "Our Infrastructure & Equipment",
-      "subtitle": "Advanced manufacturing capabilities with precision machinery",
-      "items": [
-        {
-          "id": "cnc-machines",
-          "title": "CNC Machining Centers",
-          "description": "High-precision CNC turning and milling machines for complex components with tight tolerances.",
-          "capacity": "50+ Machines",
-          "specifications": "5-axis machining capability, ±0.01mm tolerance",
-          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&q=80"
-        },
-        {
-          "id": "forging-equipment",
-          "title": "Forging & Forming Equipment",
-          "description": "Heavy-duty forging presses and forming machines for creating strong, durable components.",
-          "capacity": "2000 Ton Press",
-          "specifications": "Hot & cold forging, die forging capabilities",
-          "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=600&q=80"
-        },
-        {
-          "id": "testing-equipment",
-          "title": "Quality Testing Equipment",
-          "description": "State-of-the-art testing and measurement instruments for quality assurance and material analysis.",
-          "area": "5,000 sq ft",
-          "specifications": "CMM, Spectrometer, Hardness testers, Surface finish analyzers",
-          "image": "https://images.unsplash.com/photo-1566576912293-d5ce2ba96515?auto=format&fit=crop&w=600&q=80"
-        }
-      ]
-    },
-    "manufacturingProcess": {
-      "type": "manufacturing-process",
-      "enabled": true,
-      "title": "Manufacturing Process",
-      "subtitle": "Precision engineering through systematic processes",
-      "items": [
-        {
-          "id": "design",
-          "step": 1,
-          "title": "Design & Engineering",
-          "description": "Advanced modeling and engineering analysis to ensure optimal design specifications."
-        },
-        {
-          "id": "material",
-          "step": 2,
-          "title": "Material Selection",
-          "description": "Premium quality brass alloys sourced from certified suppliers worldwide."
-        },
-        {
-          "id": "machining",
-          "step": 3,
-          "title": "Precision Machining",
-          "description": "CNC machining with tight tolerances using state-of-the-art equipment."
-        },
-        {
-          "id": "quality",
-          "step": 4,
-          "title": "Quality Control",
-          "description": "Rigorous testing and inspection at every stage of the manufacturing process."
-        },
-        {
-          "id": "finishing",
-          "step": 5,
-          "title": "Surface Finishing",
-          "description": "Professional finishing treatments including polishing, coating, and plating."
-        },
-        {
-          "id": "packaging",
-          "step": 6,
-          "title": "Packaging & Dispatch",
-          "description": "Secure packaging and timely dispatch with complete documentation."
-        }
-      ]
-    },
-    "awards": {
-      "type": "awards",
-      "enabled": true,
-      "title": "Awards & Recognition",
-      "subtitle": "Celebrating excellence and industry recognition",
-      "items": [
-        {
-          "id": "excellence",
-          "title": "Manufacturing Excellence Award",
-          "year": "2023",
-          "authority": "Gujarat Industrial Development Corporation",
-          "description": "Recognized for outstanding contribution to manufacturing sector and export growth."
-        },
-        {
-          "id": "quality",
-          "title": "Quality Excellence Award",
-          "year": "2022",
-          "authority": "Bureau of Indian Standards",
-          "description": "Awarded for maintaining highest quality standards in brass manufacturing."
-        },
-        {
-          "id": "export",
-          "title": "Export Excellence Award",
-          "year": "2021",
-          "authority": "Engineering Export Promotion Council",
-          "description": "Honored for significant contribution to India's engineering exports."
-        }
-      ]
-    },
-    "certificates": {
-      "type": "certificates",
-      "enabled": true,
-      "title": "Certifications & Standards",
-      "subtitle": "Commitment to Quality and Compliance",
-      "items": [
-        {
-          "id": "iso-9001",
-          "name": "ISO 9001:2015",
-          "description": "Quality Management System",
-          "image": "/placeholder.svg"
-        },
-        {
-          "id": "iso-14001",
-          "name": "ISO 14001:2015",
-          "description": "Environmental Management",
-          "image": "/placeholder.svg"
-        }
-      ]
-    },
     "cta": {
       "type": "cta",
+      "title": "Partner with Precision Manufacturing Excellence",
       "enabled": true,
-      "title": "Partner with Industry Leaders",
-      "subtitle": "Join thousands of satisfied clients who trust Ashapura Brass Industries for their precision manufacturing needs.",
+      "subtitle": "Transform your engineering challenges with our expert brass component solutions",
       "primaryCTA": {
         "text": "Start Your Project",
         "action": "/contact"
       },
       "secondaryCTA": {
-        "text": "Explore Our Capabilities",
+        "text": "Explore Capabilities",
         "action": "/services"
       }
+    },
+    "awards": {
+      "type": "awards",
+      "items": [
+        {
+          "id": "manufacturing-excellence",
+          "year": 2022,
+          "title": "Manufacturing Innovation Award",
+          "authority": "Industrial Manufacturing Association",
+          "description": "Recognized for outstanding precision engineering and technological advancement in brass component manufacturing"
+        },
+        {
+          "id": "quality-leadership",
+          "year": 2021,
+          "title": "Six Sigma Quality Excellence",
+          "authority": "Global Quality Institute",
+          "description": "Awarded for implementing world-class quality management and continuous improvement processes"
+        },
+        {
+          "id": "export-achievement",
+          "year": 2020,
+          "title": "Export Performance Award",
+          "authority": "National Export Council",
+          "description": "Honored for significant contributions to international trade and global manufacturing standards"
+        }
+      ],
+      "title": "Awards & Recognition",
+      "enabled": true,
+      "subtitle": "Celebrating Excellence in Precision Manufacturing"
+    },
+    "certificates": {
+      "type": "certificates",
+      "items": [
+        {
+          "id": "iso-quality",
+          "name": "ISO 9001:2015",
+          "image": "/placeholder.svg",
+          "description": "Certified quality management system ensuring consistent product excellence"
+        },
+        {
+          "id": "six-sigma",
+          "name": "Six Sigma Certified",
+          "image": "/placeholder.svg",
+          "description": "Advanced quality control and process improvement methodology"
+        },
+        {
+          "id": "dun-bradstreet",
+          "name": "Dun & Bradstreet Registered",
+          "image": "/placeholder.svg",
+          "description": "Verified business credibility and financial stability"
+        }
+      ],
+      "title": "Certifications & Standards",
+      "enabled": true,
+      "subtitle": "Committed to Highest Quality and Compliance Standards"
+    },
+    "companyJourney": {
+      "type": "company-journey",
+      "items": [
+        {
+          "year": 2015,
+          "title": "Company Foundation",
+          "description": "Established Sahara Brass with a vision to revolutionize precision brass component manufacturing"
+        },
+        {
+          "year": 2018,
+          "title": "Facility Expansion",
+          "description": "Expanded manufacturing facility and invested in advanced CNC machinery to increase production capabilities"
+        },
+        {
+          "year": 2020,
+          "title": "Six Sigma Certification",
+          "description": "Achieved Six Sigma certification, demonstrating commitment to world-class quality management"
+        },
+        {
+          "year": 2021,
+          "title": "International Market Entry",
+          "description": "Successfully expanded international client base, serving automotive and industrial sectors globally"
+        },
+        {
+          "year": 2022,
+          "title": "Technology Innovation",
+          "description": "Implemented advanced laser marking and prototyping technologies to enhance manufacturing precision"
+        }
+      ],
+      "title": "Our Journey",
+      "enabled": true,
+      "subtitle": "A Story of Innovation and Continuous Growth"
+    },
+    "infrastructure": {
+      "type": "infrastructure",
+      "items": [
+        {
+          "id": "cnc-machines",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+          "title": "Advanced CNC Machining Center",
+          "capacity": "12 High-Precision CNC Machines",
+          "description": "State-of-the-art CNC machining capabilities enabling complex brass component manufacturing",
+          "specifications": "Tolerance: ±0.01mm, Multi-axis Precision Machining"
+        },
+        {
+          "id": "quality-lab",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+          "title": "Precision Quality Control Laboratory",
+          "capacity": "Comprehensive Measurement Equipment",
+          "description": "Advanced metrology and inspection systems ensuring highest quality standards",
+          "specifications": "3D Coordinate Measuring Machines, Optical Comparators"
+        }
+      ],
+      "title": "Our Manufacturing Infrastructure",
+      "enabled": true,
+      "subtitle": "Cutting-Edge Technology Driving Precision Engineering"
+    },
+    "companyOverview": {
+      "type": "company-overview",
+      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+      "items": [
+        {
+          "id": "overview",
+          "content": "Sahara Brass is a premier precision brass components manufacturer founded in 2015, specializing in high-quality solutions for automotive, HVAC, and industrial sectors. With advanced manufacturing technologies and a commitment to excellence, we deliver innovative, reliable components that meet the most demanding industry standards.",
+          "highlights": [
+            "ISO 9001:2015 Certified",
+            "Advanced CNC Machining Capabilities",
+            "Global Automotive and Industrial Reach",
+            "Six Sigma Quality Management",
+            "Custom Engineering Solutions",
+            "Rapid Prototyping Services",
+            "Comprehensive Quality Control",
+            "99.8% On-Time Delivery Rate"
+          ]
+        }
+      ],
+      "title": "Company Overview",
+      "enabled": true,
+      "subtitle": "Precision Engineering, Uncompromising Quality"
+    },
+    "manufacturingProcess": {
+      "type": "manufacturing-process",
+      "items": [
+        {
+          "id": "design",
+          "step": 1,
+          "title": "Engineering Design",
+          "description": "Collaborative design phase using advanced CAD/CAM technologies to develop precise component blueprints"
+        },
+        {
+          "id": "material",
+          "step": 2,
+          "title": "Material Selection",
+          "description": "Carefully sourcing high-grade brass materials meeting stringent quality and performance requirements"
+        },
+        {
+          "id": "production",
+          "step": 3,
+          "title": "Precision Machining",
+          "description": "Utilizing advanced CNC machines to transform raw materials into intricate brass components"
+        },
+        {
+          "id": "quality",
+          "step": 4,
+          "title": "Comprehensive Quality Control",
+          "description": "Rigorous multi-stage inspection process ensuring dimensional accuracy and performance standards"
+        },
+        {
+          "id": "finishing",
+          "step": 5,
+          "title": "Surface Treatment",
+          "description": "Advanced deburring, polishing, and coating processes to enhance component durability and aesthetics"
+        },
+        {
+          "id": "delivery",
+          "step": 6,
+          "title": "Precision Packaging & Delivery",
+          "description": "Careful packaging and efficient logistics ensuring components arrive in perfect condition"
+        }
+      ],
+      "title": "Manufacturing Process",
+      "enabled": true,
+      "subtitle": "Systematic Approach to Precision Engineering"
     }
   }
 }
